@@ -1,0 +1,77 @@
+## rsschool-cv 1
+
+============================================================================================
+
+# ***Dyadichenko Vladimir***
+
+============================================================================================
+
+## *My Contact Info*
+**********************************************************************************************
+* **Address:** Paselok Stroydetal st. Volgograd 
+* **Phone:** 8-927-506-2008
+* **E-mail:** dyadichenko_va@mail.ru
+* **GitHub:** WladimirVA
+
+===========================================================================================
+
+## Summary
+*********************************************************************************************
+Easy to teach, ready to learn new technologies, sociable. I have a great desire to program and develop myself!!!
+I am engaged in self-development - I study programming in JavaScript.
+I have experience in writing a website using HTML and CSS.
+
+===========================================================================================
+
+## Skills
+*********************************************************************************************
+* HTML
+* CSS
+* JavaScript
+* Version control: Git (remote service GitHub).
+* Windows OS
+* Figma(for web development)
+* Editors: Sublime, Brackets, VSCode, PyCharm community.
+
+============================================================================================
+
+## Code examples
+**************************************************************************************************************************
+```
+function number(a, b) {
+    let i = a;
+    let timerId = setInterval(function () {
+       console.log(i);
+       if (i === b) {
+          clearInterval(timerId);
+       }
+       i++;
+    }, 1000);
+ }
+ number(5, 15);
+```
+
+===========================================================================================
+
+## Educotion
+*************************************************************************************************************************
+* **VGETK** - Computer hardware and automated systems software.
+* **Philal of the S.Y. Witte Moscow University** - Applied Mathematics and Computer science.
+
+===========================================================================================
+
+
+## Experience
+*******************************************************************************************
+1. El Dorado
+2. M.Video
+3. LLC Media Markt 
+4. LLC "Pipovarennaya company BALTIKA"
+5. LLC IC SIBINTEK
+ 
+
+===========================================================================================
+
+## Languages
+* Russian
+* English (A0)
